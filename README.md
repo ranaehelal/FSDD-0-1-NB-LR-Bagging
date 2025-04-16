@@ -28,12 +28,9 @@ Metrics: **Accuracy**, **Precision**, **Recall**, **F1-Score**
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/audio-classification.git
+   git clone https://github.com/ranaehelal/FSDD-0-1-NB-LR-Bagging.git
    ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 ## Dataset
 
